@@ -10,8 +10,10 @@
   },
   "dependencies": {
     "next": "12.1.6",
+    "razorpay": "^2.8.2",
     "react": "18.1.0",
-    "react-dom": "18.1.0"
+    "react-dom": "18.1.0",
+    "shortid": "^2.2.16"
   },
   "devDependencies": {
     "eslint": "8.17.0",
