@@ -1,11 +1,7 @@
-import React from 'react'
+import React from "react";
 
 function Success() {
-  return (
-    <div>
-      Do Something
-    </div>
-  )
+  return <div>Do Something</div>;
 }
 
-export default Success
+export default Success;
